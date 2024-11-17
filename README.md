@@ -1,3 +1,5 @@
+CLICK MAIN.PY TO SEE THE CODE 
+
 SCENARIO: you are given a raw CSV file every day with customer information, the money they spent today, and the total money theyve spent before today. 
 your goal is to create an easier to read excel report with their full name, email, customer ID, and an updated total amount theyve spent, and email this file to johnsmithers@gmail.com (a fake email I made)
 
