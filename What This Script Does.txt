@@ -9,11 +9,9 @@ this python script takes the CSV file, inputs that raw data into excel. From the
 4. copies over their emails
 5. uses XLOOKUP to find and populate their IDs 
 6. calculates the sum of all theyve spent and puts it into the total spent field
-7. applies the currency format to that sum
-8. formats the entire new sheet to look prettier
-9. renames the entire workbook to reflect the date of creation 
-10. emails the entire thing to john smithers with a short description and subject line describing what was done 
+7. formats the entire new sheet to look prettier
+8. emails the entire thing to john smithers with a short description and subject line describing what was done 
 
-the benefit of this sample script is its reusability. all you need to do is take any different CSV with the same layout, put it next to the program, run the executable program, and the same operations are performed and the thing is emailed in literal seconds. What would take maybe 30 minutes to do is done instantly and with no room for human error at all.
+the benefit of this sample script is its reusability. all you need to do is take any different CSV with the same layout, put it next to the program, run the executable program, and the same operations are performed and the thing is emailed in literal seconds. What would take maybe 30+ minutes to do is done instantly and with no room for human error at all.
 
 In a hypothetical where I am exposed to a routine where I know what data I'm working with and we're looking at multiple excel sheets and complex operations, we can imagine building out these programs to do more and more, especially if we use them in conjunction with ExcelScripts as well. 
